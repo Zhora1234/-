@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(14, 155, 77);
+}
+a {
+    color:#000000;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+img {
+    /* картинка в центре*/
+}
+h3 {
+    text-align: center;
+    color:rgb(15, 4, 54)
+}
+.div-1 {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
